@@ -1,0 +1,17 @@
+[
+    {
+        "modid": "rndwarp",
+        "name": "RNDWarp",
+        "version": "1.1",
+        "description": "Randomly warp a player a set distance away from the execution point",
+        "dependencies": [
+            "spongeapi@7.1.0"
+        ],
+        "authorList": [
+                "JessRed"
+            ],
+        "requiredMods": [
+            "spongeapi@7.1.0"
+        ]
+    }
+]
